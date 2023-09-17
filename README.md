@@ -1,6 +1,6 @@
 # MovieLens-dataset-Analysis
 
-As a Data Science graduate student with a passion for exploring the world of cinema through data, I embarked on an insightful journey with the MovieLens dataset. This comprehensive analysis delves into the rich tapestry of movie information, offering valuable insights into viewer preferences and film genres.
+As a passionate movie enthusiast with a deep appreciation for the art of cinema, I embarked on an insightful journey with the MovieLens dataset. This comprehensive analysis delves into the rich tapestry of movie information, offering valuable insights into viewer preferences and film genres.
 
 **Exploring Movie Data:** 
 
